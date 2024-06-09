@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "AFMS Mobile",
+    "slug": "AFMSMobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoAFMS.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashScreenAFMS.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logoAFMS.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.hafidzbandung.AFMSMobileApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cc513294-3f69-47fe-944f-b0abbe0e1fde"
+      }
+    }
+  }
+}
