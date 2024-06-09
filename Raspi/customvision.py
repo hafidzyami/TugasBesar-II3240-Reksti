@@ -25,7 +25,7 @@ headers = {
 predictImageName = ""
 
 # Azure Blob
-# connection_string = "DefaultEndpointsProtocol=https;AccountName=tpkiot;AccountKey=jzWgteV/05tVaUWG9BKprYJPjM5tpJn2Vmvp/jPHiJqcLskQ7bmFrffD/aTgbJpQKEe06V0aNTkt+AStjlKpBA==;EndpointSuffix=core.windows.net"
+connection_string = "rahasia"
 container_name = "esp32cam"
 
 # MQTT
